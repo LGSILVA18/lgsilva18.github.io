@@ -1,6 +1,15 @@
-.container.main { padding-top: 50px; ;
+.container.main { padding-top: 50px; 
 
 
 }
 
 #capa {width: 300px; left: 210px; position:relativ;}
+
+.corpo{
+    text-align: center;
+        box-sizing: border-box;
+        display: inline-block;
+        width: 20%;
+        margin: 20px;
+}
+
